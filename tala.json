@@ -1,0 +1,30 @@
+{
+  "name": "TALA",
+  "symbol": "TALA",
+  "description": "TALA – a community-driven token backed by innovation and community support.",
+  "image": "https://raw.githubusercontent.com/shaniPyAI/TALA/main/assets/tala-dark.png",
+  "external_url": "https://github.com/shaniPyAI/TALA",
+  "attributes": [
+    { "trait_type": "Project", "value": "TALA" },
+    { "trait_type": "Type", "value": "Fungible" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/shaniPyAI/TALA/main/assets/tala-dark.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/shaniPyAI/TALA/main/assets/tala-light.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "2ddTMNqcTwUFrKhgt5EU8q3yniNHFQyVbWPZsdHFtUsA",
+        "share": 100
+      }
+    ]
+  }
+}
